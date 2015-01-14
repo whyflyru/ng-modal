@@ -1,0 +1,29 @@
+{
+  "name": "ng-modal",
+  "version": "0.0.1",
+  "description": "Modal service for Angular.js",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "gulp test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/temrdm/ng-modal.git"
+  },
+  "author": "Artem Pogrebnoy <tem.rdm@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/temrdm/ng-modal/issues"
+  },
+  "homepage": "https://github.com/temrdm/ng-modal",
+  "devDependencies": {
+    "gulp": "^3.8.10",
+    "gulp-concat": "^2.4.3",
+    "gulp-jscs": "^1.4.0",
+    "gulp-jshint": "^1.9.0",
+    "gulp-load-plugins": "^0.8.0",
+    "gulp-ng-annotate": "^0.4.3",
+    "gulp-rename": "^1.2.0",
+    "gulp-uglify": "^1.0.2"
+  }
+}

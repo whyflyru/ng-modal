@@ -1,0 +1,18 @@
+{
+  "name": "ng-modal",
+  "version": "0.0.1",
+  "homepage": "https://github.com/temrdm/ng-modal",
+  "authors": [
+    "tem.rdm <tem.rdm@gmail.com>"
+  ],
+  "description": "Modal service for Angular.js",
+  "main": "build/ngModal.js",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
