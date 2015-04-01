@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/temrdm/ng-modal.git"
+    "url": "https://github.com/whyflyru/ng-modal.git"
   },
   "author": "Artem Pogrebnoy <tem.rdm@gmail.com>",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/temrdm/ng-modal/issues"
+    "url": "https://github.com/whyflyru/ng-modal/issues"
   },
-  "homepage": "https://github.com/temrdm/ng-modal",
+  "homepage": "https://github.com/whyflyru/ng-modal",
   "devDependencies": {
     "gulp": "^3.8.10",
     "gulp-concat": "^2.4.3",
